@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 31%;
+    margin: -26px auto;
+    height: 372px;
+    background-color: rgb(190, 215, 215);
+}
+.formvalidation{
+    font-size: 22px;
+    width: 194px;
+    margin: 118px;
+}
+input{
+    width: 192px;
+    padding-top: 10px;
+    height: 20px;
+}
+label{
+    margin-top: 20px;
+    font-size: 19px;
+}
+#error,#error1,#error2,#error3{
+    color: red;
+    font-size: 15px;
+}
+.formvalidation button{
+    width: 51%;
+    height: 22px;
+}
